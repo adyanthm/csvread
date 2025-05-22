@@ -1,6 +1,8 @@
 # Modern CSV Reader
 
 A high-performance CSV reader application built with Python, pandas, and PyQt6. This application is specifically designed to handle large CSV files (6+ million lines) with a modern dark-themed UI and lag-free scrolling.
+![image](https://github.com/user-attachments/assets/4bc613ac-6c99-4137-8d36-ffd8453d7c0c)
+
 
 ## Features
 
